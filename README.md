@@ -8,7 +8,7 @@ Computer Science with a concentration in Artificial Intelligence
 Private code available upon request  
   
 **Sanguine** — Java  
-MVC GUI card game supporting human and multi-strategy automatic players, tested with JUnit  
+MVC GUI card game supporting human and multi-strategy automatic players, tested with JUnit, used pair programming  
 
 **Klondike Solitaire** — Java  
 MVC textual solitaire with customizable rules, decks, and pile sizes, tested with JUnit  

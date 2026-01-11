@@ -6,8 +6,11 @@ Computer Science with a concentration in Artificial Intelligence
 
 ## ⌨️ Projects
 Private code available upon request  
-  
-**Sanguine** — Java  
+
+**Exactly Party Game** (In Progress) — JavaScript  
+Real-time multiplayer web game built with React, HTML/CSS, and Firebase (backend + hosting)  
+
+**Sanguine** — Java (Swing)  
 MVC GUI card game supporting human and multi-strategy automatic players, tested with JUnit, used pair programming  
 
 **Klondike Solitaire** — Java  

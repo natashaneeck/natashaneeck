@@ -20,9 +20,9 @@ MVC textual solitaire with customizable rules, decks, and pile sizes, tested wit
 GUI minesweeper, implementing floodfill, flagging, and neighboring mine count  
 
 ## 🔧 Technology
-Languages: 	Java | Python | Git | Racket  
-Software:	GitHub | IntelliJ | VSCode   
-Systems:	Windows | MacOS | Linux (Ubuntu)  
+**Languages + Technologies:** Java | Python | JavaScript (React) | HTML/CSS   
+**Tools:** GitHub/Git | VS Code | Command Line | JUnit | IntelliJ | Eclipse    
+**Systems:** Windows | MacOS | Linux (Ubuntu)    
 
 ## 📭 Contact
 Email: [neeck.n@northeastern.edu](mailto:neeck.n@northeastern.edu)  

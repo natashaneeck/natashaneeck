@@ -2,43 +2,28 @@
 
 ## 🎓 Education
 Sophomore at Northeastern University  
-Computer Science with a concentration in Artificial Intelligence  
+Computer Science major, concentrating in Artificial Intelligence  
 
 ## ⌨️ Projects
-Private code available upon request  
+Private academic code available upon request  
 
-**Exactly Party Game** (In Progress) — JavaScript  
+[**Exactly Party Game**](https://github.com/natashaneeck/exactly-game) (In Progress) — JavaScript  
 Real-time multiplayer web game built with React, HTML/CSS, and Firebase (backend + hosting)  
 
-**Sanguine** — Java (Swing)  
+[**Sanguine**](https://github.com/natashaneeck/sanguine-readme) — Java (Swing)  
 MVC GUI card game supporting human and multi-strategy automatic players, tested with JUnit, used pair programming  
 
-**Klondike Solitaire** — Java  
+[**Klondike Solitaire**](https://github.com/natashaneeck/solitaire-readme) — Java  
 MVC textual solitaire with customizable rules, decks, and pile sizes, tested with JUnit  
 
-**Minesweeper** — Java  
+[**Minesweeper**](https://github.com/natashaneeck/minesweeper-readme) — Java  
 GUI minesweeper, implementing floodfill, flagging, and neighboring mine count  
 
 ## 🔧 Technology
 **Languages + Technologies:** Java | Python | JavaScript (React) | HTML/CSS   
 **Tools:** GitHub/Git | VS Code | Command Line | JUnit | IntelliJ | Eclipse    
-**Systems:** Windows | MacOS | Linux (Ubuntu)    
+**Systems:** Windows | Linux (Ubuntu)    
 
 ## 📭 Contact
 Email: [neeck.n@northeastern.edu](mailto:neeck.n@northeastern.edu)  
 LinkedIn: [www.linkedin.com/in/natasha-neeck](www.linkedin.com/in/natasha-neeck)
-
-<!--
-**natashaneeck/natashaneeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

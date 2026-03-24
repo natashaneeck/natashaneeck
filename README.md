@@ -7,9 +7,14 @@ Computer Science major, concentrating in Artificial Intelligence
 ## ⌨️ Projects  
 
 [**Exactly Party Game**](https://github.com/natashaneeck/exactly-game) (In Progress) — JavaScript  
-- Building real-time multiplayer web game using React, HTML/CSS, and Firebase for backend and hosting  
-- Allows users to join private rooms to imagine and share hypothetical conversations with 10+ friends  
-- Randomizes player pairs and 50+ topic suggestions, providing instant replayability for groups  
+- Allow users to join private rooms to play a conversation-based social prediction game with 10+ friends  
+- Build real-time multiplayer web game using React, HTML/CSS, and Firebase for backend and hosting  
+- Set up CI/CD pipeline with GitHub Actions to automatically build and deploy on pushes
+
+[**PanDoc - ViTaL Hackathon Project**](https://github.com/natashaneeck/vital-hackathon) — JavaScript  
+- Coded a swipe-based quiz app identifying gaps in rural healthcare knowledge across 13 patient rights  
+- Engineered dynamic Gemini API prompts to generate location-specific simple legal summaries  
+- Deployed React + Vite app to Vercel with CI/CD, using client-side-only data processing for user privacy  
   
 [**Sanguine**](https://github.com/natashaneeck/sanguine-readme) — Java (Swing)  
 - Constructed MVC Java Swing GUI card game with optional mouse/keyboard or command line play  
@@ -17,19 +22,14 @@ Computer Science major, concentrating in Artificial Intelligence
 - Pair-programmed and JUnit tested with 6 mocks, displaying user mistakes in error dialogue windows  
   
 [**Klondike Solitaire**](https://github.com/natashaneeck/solitaire-readme) — Java  
-- Created MVC Java text-based solitaire with 2 factory pattern ruleset variants extending abstract version  
+- Created MVC Java text-based solitaire with 2 factory pattern ruleset variants extending abstract base version  
 - Adjusts to custom decks, shuffling options, and pile sizes, fully tested in JUnit with mocks for unit tests  
 - Accepts 5 command-line moves to affect game board, allowing retries through input validation     
 
-[**Minesweeper**](https://github.com/natashaneeck/minesweeper-readme) — Java  
-- Designed GUI minesweeper in Java Eclipse that displays neighboring mine count and win/loss screen
-- Implemented floodfill effect on left click and flagging on right click
-- Private academic code available upon request  
-
 ## 🔧 Technology
-**Languages:** Java | Python | JavaScript (React) | HTML/CSS | Racket | C | Assembly  
-**Tools:** GitHub/Git | VS Code | Linux (Ubuntu) CLI | JUnit | IntelliJ | Firebase | Eclipse | LaTeX       
-**Systems:** Windows | Linux (Ubuntu) | macOS    
+**Languages:** Java, Python, JavaScript, C, SQL, HTML, CSS, Assembly, Racket  
+**Tools:** GitHub/Git, VS Code, Linux (Ubuntu) CLI, JUnit, Figma, React, IntelliJ, Firebase, LaTeX      
+**Systems:** Windows, Linux (Ubuntu), macOS    
 
 ## 📭 Contact
 Email: [neeck.n@northeastern.edu](mailto:neeck.n@northeastern.edu)  

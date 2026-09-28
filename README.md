@@ -1,15 +1,20 @@
 # 👋 Hi, I'm Natasha Neeck
 
 ## 🎓 Education
-Sophomore at Northeastern University  
+Junior at Northeastern University  
 Computer Science major, concentrating in Artificial Intelligence  
 
 ## ⌨️ Projects  
 
-[**Exactly Party Game**](https://github.com/natashaneeck/exactly-game) (In Progress) — JavaScript  
-- Allow users to join private rooms to play a conversation-based social prediction game with 10+ friends  
-- Build real-time multiplayer web game using React, HTML/CSS, and Firebase for backend and hosting  
-- Set up CI/CD pipeline with GitHub Actions to automatically build and deploy on pushes
+[**GameGalaxy**]() — Typescript/React  
+- Built a React website with 3 multiplayer minigames and community features, tested end-to-end  
+- Simulated an agile team environment with 3 sprints, 3 user stories, and 40+ conditions of satisfaction  
+- Implemented mahjong, avatars, accessories, forum improvements, and navigation through a lobby
+
+[**Quoridor Agent & Teacher**](https://github.com/JarRed0721/CS4100FinalProject/) — Python  
+- Trained and coded a Convolutional Neural Network on 4 effective Quoridor game strategies  
+- Tailored a game analyzer to use policy and value heads to determine each human move’s quality  
+- Calculated win rate across 100 rounds against Expectimax and Minimax agents with alpha-beta pruning  
 
 [**PanDoc - ViTaL Hackathon Project**](https://github.com/natashaneeck/vital-hackathon) — JavaScript  
 - Coded a swipe-based quiz app identifying gaps in rural healthcare knowledge across 13 patient rights  

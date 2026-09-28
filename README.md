@@ -32,8 +32,8 @@ Computer Science major, concentrating in Artificial Intelligence
 - Accepts 5 command-line moves to affect game board, allowing retries through input validation     
 
 ## 🔧 Technology
-**Languages:** Java, Python, JavaScript, C, SQL, HTML, CSS, Assembly, Racket  
-**Tools:** GitHub/Git, VS Code, Linux (Ubuntu) CLI, JUnit, Figma, React, IntelliJ, Firebase, LaTeX      
+**Languages:** Python, Java, TypeScript, JavaScript, C, SQL, HTML, CSS, Assembly, Racket  
+**Tools:** GitHub/Git, VS Code, React, APIs, Linux CLI, Figma, Firebase, LaTeX
 **Systems:** Windows, Linux (Ubuntu), macOS    
 
 ## 📭 Contact

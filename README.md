@@ -6,7 +6,7 @@ Computer Science major, concentrating in Artificial Intelligence
 
 ## ⌨️ Projects  
 
-[**GameGalaxy**]() — Typescript/React  
+[**GameGalaxy**](https://github.com/neu-cs4530/game-galaxy) — Typescript/React  
 - Built a React website with 3 multiplayer minigames and community features, tested end-to-end  
 - Simulated an agile team environment with 3 sprints, 3 user stories, and 40+ conditions of satisfaction  
 - Implemented mahjong, avatars, accessories, forum improvements, and navigation through a lobby

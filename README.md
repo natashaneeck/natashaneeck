@@ -4,8 +4,16 @@
 Junior at Northeastern University  
 Computer Science major, concentrating in Artificial Intelligence  
 
-## ⌨️ Projects  
+## 🔧 Technology
+**Languages:** Python, Java, TypeScript, JavaScript, C, SQL, HTML, CSS, Assembly, Racket  
+**Tools:** GitHub/Git, VS Code, React, APIs, Linux CLI, Figma, Firebase, LaTeX
+**Systems:** Windows, Linux (Ubuntu), macOS    
 
+## 📭 Contact
+Email: [neeck.n@northeastern.edu](mailto:neeck.n@northeastern.edu)  
+LinkedIn: [www.linkedin.com/in/natasha-neeck](www.linkedin.com/in/natasha-neeck)
+
+## ⌨️ Projects  
 [**GameGalaxy**](https://github.com/neu-cs4530/game-galaxy) — Typescript/React  
 - Built a React website with 3 multiplayer minigames and community features, tested end-to-end  
 - Simulated an agile team environment with 3 sprints, 3 user stories, and 40+ conditions of satisfaction  
@@ -30,12 +38,3 @@ Computer Science major, concentrating in Artificial Intelligence
 - Created MVC Java text-based solitaire with 2 factory pattern ruleset variants extending abstract base version  
 - Adjusts to custom decks, shuffling options, and pile sizes, fully tested in JUnit with mocks for unit tests  
 - Accepts 5 command-line moves to affect game board, allowing retries through input validation     
-
-## 🔧 Technology
-**Languages:** Python, Java, TypeScript, JavaScript, C, SQL, HTML, CSS, Assembly, Racket  
-**Tools:** GitHub/Git, VS Code, React, APIs, Linux CLI, Figma, Firebase, LaTeX
-**Systems:** Windows, Linux (Ubuntu), macOS    
-
-## 📭 Contact
-Email: [neeck.n@northeastern.edu](mailto:neeck.n@northeastern.edu)  
-LinkedIn: [www.linkedin.com/in/natasha-neeck](www.linkedin.com/in/natasha-neeck)
